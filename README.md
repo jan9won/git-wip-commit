@@ -93,7 +93,7 @@ This is a collection of bash scripts that uses native git commands.
 1.  Download and run install script
 
     ```bash
-    curl -o- https://raw.githubusercontent.com/jan9won/git-wip-commit/main/install.sh | bash
+    curl -o- https://raw.githubusercontent.com/jan9won/git-wip-commit/main/install.bash | bash
     ```
 
 2.  Prepare remote repository for remote features
